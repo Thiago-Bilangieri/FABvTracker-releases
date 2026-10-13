@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="380" viewBox="0 0 560 380" font-family="Segoe UI, Arial, sans-serif">
+  <title>Tela do SmartScreen: clique em "Executar assim mesmo"</title>
+  <rect width="560" height="380" fill="#0063B1"/>
+  <text x="520" y="34" fill="#fff" font-size="18" text-anchor="end">✕</text>
+  <text x="40" y="78" fill="#fff" font-size="28" font-weight="300">O Windows protegeu o computador</text>
+  <text x="40" y="124" fill="#fff" font-size="14">O Microsoft Defender SmartScreen impediu a inicialização de um</text>
+  <text x="40" y="144" fill="#fff" font-size="14">aplicativo não reconhecido. A execução deste aplicativo pode</text>
+  <text x="40" y="164" fill="#fff" font-size="14">colocar seu computador em risco.</text>
+  <text x="40" y="208" fill="#fff" font-size="14">Aplicativo:</text>
+  <text x="130" y="208" fill="#fff" font-size="14">FABv.Tracker-win-Setup.exe</text>
+  <text x="40" y="232" fill="#fff" font-size="14">Editor:</text>
+  <text x="130" y="232" fill="#fff" font-size="14">Editor desconhecido</text>
+  <rect x="0" y="310" width="560" height="70" fill="#00559A"/>
+  <rect x="215" y="326" width="170" height="36" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="300" y="349" fill="#fff" font-size="14" text-anchor="middle">Executar assim mesmo</text>
+  <rect x="206" y="318" width="188" height="52" rx="6" fill="none" stroke="#FFC83D" stroke-width="3"/>
+  <circle cx="206" cy="300" r="14" fill="#FFC83D"/>
+  <text x="206" y="305" fill="#1B1B1B" font-size="15" font-weight="700" text-anchor="middle">2</text>
+  <rect x="400" y="326" width="130" height="36" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="465" y="349" fill="#fff" font-size="14" text-anchor="middle">Não executar</text>
+</svg>
